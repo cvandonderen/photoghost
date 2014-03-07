@@ -10,11 +10,11 @@ This theme is meant to be updated as Ghost develops. Feel free to [request featu
 
 1. Navigate to your Ghost theme directory ghost/content/themes
 
-2. Clone theme repo using the ```git clone git@github.com:cvandonderen/photoghost.git "photoghost"``` command
+2. [Download](https://github.com/cvandonderen/photoghost/archive/master.zip) the theme zipfile from GitHub OR clone the theme repo using the ```git clone git@github.com:cvandonderen/photoghost.git "photoghost"``` command
 
 3. Restart ghost and log into your dashboard
 
-4. On settings page, select Photo Ghost as theme and save.
+4. On the settings page, select Photo Ghost as theme and save.
 
 *Note:* Please me know if you have any issues. I can be reached at (casper dot vandonderen at gmail.com).
 
