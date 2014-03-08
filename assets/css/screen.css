@@ -1070,6 +1070,11 @@ margin on the iframe, cause it breaks stuff. */
         font-size: 1.3rem;
     }
 
+    .post-excerpt {
+        margin: 0 5%;
+        width: 90%
+    }
+
     .post-footer {
         padding: 0;
         text-align: center;
@@ -1109,7 +1114,8 @@ margin on the iframe, cause it breaks stuff. */
     }
 
     .post-inner {
-        width: 80%;
+        width: 90%;
+        margin-left: 4.5%;
     }
 
     .main .post-inner {
