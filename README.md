@@ -30,6 +30,7 @@ This theme is meant to be updated as Ghost develops. Feel free to [request featu
 
 | Version | Release Date |
 | :-----: | :----------: |
+| 0.1.1 | March 30, 2014 |
 | 0.1 | March 2, 2014 |
 
 ## Contributing and Forking
