@@ -662,7 +662,7 @@ margin on the iframe, cause it breaks stuff. */
 /* Keep large images within the bounds of the post-width */
 .post-content img {
     display: block;
-    margin: 20px 0;
+    margin: 20px auto;
     max-width: 100%;
     height: auto;
 }
